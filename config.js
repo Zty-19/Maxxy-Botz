@@ -39,62 +39,62 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true],
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true]
+['62882020829682', 'ALIF ᴍᴀᴋᴇʀ✓', true],
+['62882020829682', 'ALIF ᴍᴀᴋᴇʀ✓', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.nomorown1 = '6285380166285'
-global.nomorown2 = '6285380166282'
+global.nomorbot = '6285845575733'
+global.nomorown = '62882020829682'
+global.nomorown1 = '62882020829682'
+global.nomorown2 = '62882020829682'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.author = 'Created By ALIF ᴍᴀᴋᴇʀ✓'
+global.namebot = 'ALIF BOT MD'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ALIF ᴍᴀᴋᴇʀ✓'
 global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 global.watermark = wm
-global.wm2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ '
+global.wm2 = 'ʏᴛ ALIF GTPS✓ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`
-global.stickpack = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.stickauth = `© ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ MD`
+global.stickpack = 'ʏᴛ ALIF GTPS ʙᴏᴛᴢ✓ 𝐗 ALIF ᴍᴀᴋᴇʀ✓'
+global.stickauth = `© ʏᴛ ALIFGTPS ʙᴏᴛᴢ✓ MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.nameown2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
+global.nameown1= 'ALIF ᴍᴀᴋᴇʀ✓'
+global.nameown2 = 'ʏᴛ ALIF GTPS ʙᴏᴛᴢ✓'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/kahfi.xd'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kahfiofc0'
-global.sgh = 'https://github.com/Frezzy-XD' //github
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
-global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.sig = 'https://instagram.com/alifyoutubee12'
+global.sgh = 'https://github.com/alifytkun' //github
+global.sgc = 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS' //group whatsapp
+global.sdc = 'https://discord.gg/6qEJyzba' //discord
+global.snh = 'https://youtube.com/channel/@ALIFGTPS'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0853-8016-6282'
+global.pdana = '082350060897'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.ppulsa = '085845575733'
+global.ppulsa2 = '082350060897'
+global.psaweria = 'https://saweria.co/alifyt'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 14 Hari IDR 3.000\n├ 28 Hari IDR 5.000\n├ 2BULAN +5 Hari IDR 15.000\n├ PERMA IDR 25.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -304,16 +304,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/Frezzy-XD"
+global.urlnya = "https://www.instagram.com/alifyoutubee12"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '085380166282'
+global.phn = '0882020829682'
 
 global.thumbdoc = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.thumbdoc = 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
