@@ -130,7 +130,7 @@ async function connectionUpdate(update) {
 ┃╴◈ Bᴏᴛ Tᴇʟᴀʜ Tᴇʀsᴀᴍʙᴜɴɢ
 ┣═══════════════════
 ┃╴▶ Nᴏᴍᴏʀ : ${global.nomorbot}
-┃╴▶ Nᴀᴍᴇ Bᴏᴛ : ${global.namebot}
+┃╴▶Zty : ${global.namebot}
 ┖┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬
 `, wm, 'Oᴡɴᴇʀ', '.owner', null
 )
